@@ -151,6 +151,12 @@ git merge --abort
 ```
 
 <br>
+ 
+❌ Assuming the deleted file will remain.
+
+By default, Git will remove the file if it was removed from one branch and hasn’t been changed in the other.
+
+<br>
 
 # 🔗 Related Commands
 
