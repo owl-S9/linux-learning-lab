@@ -65,6 +65,11 @@ Safer alternative:
 git push --force-with-lease
 ```
 
+Push and delete a branch from a remote repository:
+```bash
+git push <remote> --delete <branch>
+```
+
 <br>
 
 # 💡 Real Example
@@ -177,6 +182,15 @@ git status
 ```
 
 before pushing.
+
+<br> 
+
+❌ Don't assume that `git branch -d <branch-name>` will remove the branch from GitHub.
+```bash
+git branch -d <branch-name>      # Remove from local (your computer)
+git push <remote> --delete <branch-name>   # Remove from remote (GitHub)
+```
+
 
 <br>
 
