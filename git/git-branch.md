@@ -194,6 +194,15 @@ git push -u origin feature/login
 
 <br>
 
+❌ assuming the merged branch will be removed automatically.
+
+After merging, you can safely delete the branch you merged using:
+```bash
+git branch -d feature
+```
+
+<br>
+
 # 🔗 Related Commands
 
 | Command | Purpose |
