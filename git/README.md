@@ -2,6 +2,39 @@
 
 > A practical Git knowledge base covering the most important commands, concepts, and workflows.
 
+
+### Getting Started
+- [init](git-init.md)
+- [clone](git-clone.md)
+
+### Daily Workflow
+- [status](git-status.md)
+- [add](git-add.md)
+- [commit](git-commit.md)
+- [push](git-push.md)
+- [pull](git-pull.md)
+- [diff](git-diff.md)
+- [log](git-log.md)
+
+### Branching
+- [branch](git-branch.md)
+- [switch](git-switch.md)
+- [merge](git-merge.md)
+- [rebase](git-rebase.md)
+
+### Recovery
+- [reset](git-reset.md)
+- [restore](git-restore.md)
+- [reflog](git-reflog.md)
+- [stash](git-stash.md)
+- [clean](git-clean.md)
+
+### Advanced
+- [tag](git-tag.md)
+- cherry-pick
+- [fetch](git-fetch.md)
+- [remote](git-remote.md)
+
 <br>
 
 # Git Workflow
