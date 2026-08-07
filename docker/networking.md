@@ -100,7 +100,7 @@ docker run --network my-network nginx
 
 <br>
 
-## DNS Resolution
+### DNS Resolution
 
 Containers on the same custom network can communicate using **container names** instead of IP addresses.
 
