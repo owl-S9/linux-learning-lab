@@ -30,6 +30,7 @@ sudo apt install docker.io
 ## Issue #2
 
 I got a permission error because I installed Docker as root.
+
 Adding my user to the docker group resolved it.
 
 ```bash
@@ -68,6 +69,7 @@ zsh: locking failed for /home/kali/.zsh_history: read-only file system: reading 
 ```
 
 and now i was sure the problem is more bigger, and its ont just on docker.
+
 something happend to my disk.
 
 ```bash
@@ -82,6 +84,7 @@ sudo dmesg | grep -i "error\|fail\|read-only"
 ```
 
 yes, my disk has been set to read-only mode. :P 
+
 why? i don't know ... still no idea
 
 it just got fixed by: 
