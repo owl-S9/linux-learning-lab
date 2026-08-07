@@ -90,6 +90,7 @@ Removed
 Common lifecycle commands:
 
 - Create
+- Run
 - Start
 - Stop
 - Restart
