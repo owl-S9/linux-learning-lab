@@ -179,7 +179,7 @@ Remove a container:
 docker rm <container-id>
 ```
 
-Open a shell inside a running container:
+Open a shell inside a running container (interactive terminal):
 ```bash
 docker exec -it <container-id> bash
 ```
