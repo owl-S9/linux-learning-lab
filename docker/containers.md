@@ -139,7 +139,7 @@ A single image can create any number of independent containers.
 
 # 🔍 Examples
 
-Run a container:
+Run a container (download and run if it is not downloaded already):
 ```bash
 docker run nginx
 ```
