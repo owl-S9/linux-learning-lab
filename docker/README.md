@@ -13,6 +13,15 @@ The goal is to build a concise and practical reference that is easy to review wh
 - [architecture.md](architecture.md)
 - [images.md](images.md)
 - [containers.md](containers.md)
-- [dockerfile.md](dockerfile.md)
-- [volumes.md](volumes.md)
 - [networking.md](networking.md)
+- [volumes.md](volumes.md)
+
+<br>
+
+- [compose.md](compose.md)
+- [dockerfile.md](dockerfile.md)
+
+<br>
+
+- [commands.md](commands.md)
+- [troubleshooting.md](troubleshooting.md)
